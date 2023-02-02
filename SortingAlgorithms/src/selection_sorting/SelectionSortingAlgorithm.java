@@ -34,7 +34,7 @@ public class SelectionSortingAlgorithm {
             sortArr[minId] = temp;
         }
 
-        System.out.println("Bubble Sorting Array");
+        System.out.println("Selection Sorting Array");
 
         for(int k = 0; k < sortArr.length; k++){
             System.out.print(sortArr[k] + " ");
